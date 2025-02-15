@@ -4,4 +4,8 @@
 # Ada Library Information
 *.ali
 
-data
+data/
+
+Pipfile
+Pipfile.lock
+
